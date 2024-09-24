@@ -4,6 +4,8 @@ Have fun with a classic Tetris and Snake game.
 
 This repo was made to practice my JS, HTML and CSS skills.
 
+https://pixelpolo.github.io/PixelPolo/
+
 <!--
 **PixelPolo/PixelPolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
