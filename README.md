@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-Have fun with a classic Tetris and Snake game.
-
-This repo was made to practice my JS, HTML and CSS skills.
-
+Have fun with a classic Tetris and Snake game.  
 (Scores cannot be submitted... No Backend, just for fun !)
 
 https://pixelpolo.github.io/PixelPolo/
